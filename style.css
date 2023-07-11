@@ -17,4 +17,9 @@ div {
   img{
     border: 5px solid white;
 }
+
+h1,h3,h4,h6{
+    color: white;
+}
+  
   
